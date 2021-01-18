@@ -1,7 +1,7 @@
 ![](imgs/EmSysLogo.svg)
 ## Welcome to EmSys 2020 CSC-368/CSCM68
 Welcome to EmSys (Embedded Systems). 
-This repository contains various useful bits and pieces for the course, such as a schedule, datasheets, and various other bits and pieces.
+This repository contains various useful bits and pieces for the course, such as a schedule, datasheets, and various other things.
 For this course, I will primarily use GitHub to host lecture and lab content. Below is a table detailing the lecture and labs' timing, along with links to the relevant GitHub page. Most of the repositories are currently private but will be made public before the appropriate lab/lecture. 
 
 ### Course Schedule
