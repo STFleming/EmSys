@@ -4,6 +4,7 @@ Welcome to EmSys (Embedded Systems).
 This repository contains various useful bits and pieces for the course, such as a schedule, datasheets, and various other things.
 For this course, I will primarily use GitHub to host lecture and lab content. Below is a table detailing the lecture and labs' timing, along with links to the relevant GitHub page. Most of the repositories are currently private but will be made public before the appropriate lab/lecture. 
 
+-----------------------------------------------------------------------------------
 ### Course Schedule
 | Week  | dates       | Lecture (Tuesdays 16:00 - 18:00)                                                          | Labs (Fridays 15:00 - 17:00)                                                                                     | 
 |-------|-------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -23,13 +24,24 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 | 14    | 26/04-30/04 | Revision Lectures or Extra labs                                                           | Coursework Deadline due 11:00 26/04/2020                                                                         |
 
 
+-----------------------------------------------------------------------------------
 ### Datasheets & Technical Reference Manuals
 | Device                       | Datasheet/Technical Reference Manual                                                                                                               |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![](imgs/tp_small.jpg)       | [TinyPico-01]()                                                                                                                                    |
 | ![](imgs/esp32_small.jpg)    | [ESP32 Technical Reference Manual](https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf)            |
 | ![](imgs/logic_analyser_small.jpg) | [Logic Analyser](https://cdn.shopify.com/s/files/1/1509/1638/files/Logic_Analyzer_Datasheet_e6569a64-4910-4661-9ef3-f431019ab753.pdf?v=1610445451) |
+| ![](imgs/currentRanger_small.jpg) | [Low Power Current Amplifier](https://lowpowerlab.com/guide/currentranger/specs-architecture/) |
 
 ### TinyPico Pinout
 ![](imgs/tinypico-specs-v2.jpg)
 
+-----------------------------------------------------------------------------------
+
+### Software & Libraries
+|  Software   |   Information / Resources  |
+|-------------|----------------------------|
+| ![](imgs/arduino_small.png) | [Basic Info](https://www.arduino.cc/en/Tutorial/BuiltInExamples) |
+| ![](imgs/sigrok_small.png) | [PulseView Logic Analyser gui](https://sigrok.org/wiki/PulseView) |
+| ![](imgs/circuitjs_small.gif)    | [CircuitJs Web simulator](https://www.falstad.com/circuit/circuitjs.html) |
+| ![](imgs/github_small.png)    |  [ArduinoWebsockets](https://github.com/gilmaimon/ArduinoWebsockets) |
