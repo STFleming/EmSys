@@ -8,7 +8,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 ### Course Schedule
 | Week  | dates       | Lecture (Tuesdays 16:00 - 18:00)                                                          | Labs (Fridays 15:00 - 17:00)                                                                                     | 
 |-------|-------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 1     | 25/01-29/01 | [Introduction](https://github.com/STFleming/EmSys_Lecture1);  [[zoom](https://swanseauniversity.zoom.us/j/93190097784?pwd=d2NURUFyb0RwR0RPVGRQNEoyY0lmdz09)] passcode=582082                               | [Lab 1 Start 29/01/2020](https://github.com/STFleming/EmSys_Lab1)                                                |
+| 1     | 25/01-29/01 | [Introduction](https://github.com/STFleming/EmSys_Lecture1);                              | [Lab 1 Start 29/01/2020](https://github.com/STFleming/EmSys_Lab1)                                                |
 | 2     | 01/02-05/02 | [Analogue and Digital](https://github.com/STFleming/EmSys_Lecture2)                       |                                                                                                                  |
 | 3     | 09/02-12/02 | [Worse Case Execution Time](https://github.com/STFleming/EmSys_Lecture3)                  |                                                                                                                  |
 | 4     | 15/02-19/02 | [Real-Time Operating Systems](https://github.com/STFleming/EmSys_Lecture4)                | Lab 1 logbook due 11:00 15/02/2020; [Lab 2 Start 19/02/2020](https://github.com/STFleming/EmSys_Lab2)            |
@@ -23,6 +23,9 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 | 13    | 19/04-23/04 | Revision Lectures or Extra labs                                                           |                                                                                                                  |
 | 14    | 26/04-30/04 | Revision Lectures or Extra labs                                                           | Coursework Deadline due 11:00 26/04/2020                                                                         |
 
+
+Lectures are every Tuesday at 16:00.
+Link to the Zoom lecture: [here](https://swanseauniversity.zoom.us/j/91305669799?pwd=L0NhQlRQMnlOZWQxblp0TEFrSUVlZz09) passcode: 411246 
 
 -----------------------------------------------------------------------------------
 ### Datasheets & Technical Reference Manuals
