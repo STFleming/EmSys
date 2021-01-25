@@ -14,14 +14,14 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 | 4     | 15/02-19/02 | [Real-Time Operating Systems](https://github.com/STFleming/EmSys_Lecture4)                | Lab 1 logbook due 11:00 15/02/2020; [Lab 2 Start 19/02/2020](https://github.com/STFleming/EmSys_Lab2)            |
 | 5     | 22/02-26/02 | [Inter-process Communication & Concurrency](https://github.com/STFleming/EmSys_Lecture5)  |                                                                                                                  |
 | 6     | 01/03-05/03 | [Bus-based Communications and Protocols](https://github.com/STFleming/EmSys_Lecture6)     |                                                                                                                  |
-| 7     | 08/03-12/03 | [Maths -- Hardware, Errors, and Performance](https://github.com/STFleming/EmSys_Lecture7) | Lab 2 logbook due 11:00 08/03/2020; [Coursework Start 12/03/2020](https://github.com/STFleming/EmSys_Coursework) |
-| 8     | 15/03-19/03 | [Custom Hardware and Acceleration (FPGAs)](https://github.com/STFleming/EmSys_Lecture8)   |                                                                                                                  |
-| 9     | 22/03-26/03 | [Fault Tolerance](https://github.com/STFleming/EmSys_Lecture9)                            |                                                                                                                  |
+| 7     | 08/03-12/03 | [Power Consumption](https://github.com/STFleming/EmSys_Lecture7) | Lab 2 logbook due 11:00 08/03/2020; [Coursework Start 12/03/2020](https://github.com/STFleming/EmSys_Coursework) |
+| 8     | 15/03-19/03 | [Maths -- Hardware, Errors, and Performance](https://github.com/STFleming/EmSys_Lecture8)   |                                                                                                                  |
+| 9     | 22/03-26/03 | [Custom Hardware and Acceleration (FPGAs)](https://github.com/STFleming/EmSys_Lecture9)                            |                                                                                                                  |
 | 10    | 29/03-02/04 | Break                                                                                     |                                                                                                                  |
 | 11    | 05/04-09/04 | Break                                                                                     |                                                                                                                  |
 | 12    | 12/04-16/04 | Break                                                                                     |                                                                                                                  |
-| 13    | 19/04-23/04 | Revision Lectures or Extra labs                                                           |                                                                                                                  |
-| 14    | 26/04-30/04 | Revision Lectures or Extra labs                                                           | Coursework Deadline due 11:00 26/04/2020                                                                         |
+| 13    | 19/04-23/04 | [Fault Tolerance](https://github.com/STFleming/EmSys_Lecture10)                                                           |                                                                                                                  |
+| 14    | 26/04-30/04 | Revision Lecture or Extra lab                                                           | Coursework Deadline due 11:00 26/04/2020                                                                         |
 
 
 -----------------------------------------------------------------------------------
