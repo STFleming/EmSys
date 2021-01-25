@@ -31,7 +31,7 @@ Link to the Zoom lecture: [here](https://swanseauniversity.zoom.us/j/91305669799
 ### Datasheets & Technical Reference Manuals
 | Device                       | Datasheet/Technical Reference Manual                                                                                                               |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](imgs/tp_small.jpg)       | [TinyPico-01]()                                                                                                                                    |
+| ![](imgs/tp_small.jpg)       | [TinyPico-01]()https://www.tinypico.com/                                                                                                                                    |
 | ![](imgs/esp32_small.jpg)    | [ESP32 Technical Reference Manual](https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf)            |
 | ![](imgs/logic_analyser_small.jpg) | [Logic Analyser](https://cdn.shopify.com/s/files/1/1509/1638/files/Logic_Analyzer_Datasheet_e6569a64-4910-4661-9ef3-f431019ab753.pdf?v=1610445451) |
 | ![](imgs/currentRanger_small.jpg) | [Low Power Current Amplifier](https://lowpowerlab.com/guide/currentranger/specs-architecture/) |
