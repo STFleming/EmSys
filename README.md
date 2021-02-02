@@ -6,6 +6,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 
 ### Useful links
 * Setting up your EmSys lab environment [[here](https://github.com/STFleming/EmSys_labSetup)]
+* Group Signup Form [[here](https://login.microsoftonline.com/common/oauth2/authorize?response_mode=form_post&response_type=id_token+code&scope=openid&msafed=0&nonce=c85d8f6e-b026-4c28-8d69-dd2bfc95bf34.637478614733847867&state=https%3A%2F%2Fforms.office.com%2FPages%2FResponsePage.aspx%3Fid%3DLrXKu76f1kOi859mxD3yaGURemXIkvJEi0OJyB0IdsxUNDNPUVFHWFdZSVFQMUhTTTNTRDRBSjBRNi4u&client_id=c9a559d2-7aab-4f13-a6ed-e7e9c52aec87&redirect_uri=https%3a%2f%2fforms.office.com%2fauth%2fsignin)] 
 * Machine allocations [[here](https://github.com/STFleming/EmSys_labSetup/tree/main/allocations)]
 
 -----------------------------------------------------------------------------------
