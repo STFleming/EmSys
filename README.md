@@ -15,10 +15,10 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 |-------|-------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | 1     | 25/01-29/01  | [Introduction](https://github.com/STFleming/EmSys_Lecture1);                              |                                                 |
 | 2     | 01/02-05/02  | [Labs and HW/SW Interface](https://github.com/STFleming/EmSys_LabIntro_MemoryMappedHardware);                  | [Lab 1 Start 05/02/2020](https://github.com/STFleming/EmSys_Lab1)                                                |
-| 3     | 09/02-12/02  | [Analogue and Digital](https://github.com/STFleming/EmSys_Analogue_and_Digital)  |                                                                                                                  |
-| 4     | 15/02-19/02  | [Worse Case Execution Time](https://github.com/STFleming/EmSys_Lecture3)                  |                                                                                                                  |
-| 5     | 22/02-26/02  | [Real-Time Operating Systems](https://github.com/STFleming/EmSys_Lecture4)                | Lab 1 logbook due 11:00 15/02/2020; [Lab 2 Start 19/02/2020](https://github.com/STFleming/EmSys_Lab2)            |
-| 6     | 01/03-05/03  | [Inter-process Communication & Concurrency](https://github.com/STFleming/EmSys_Lecture5)  |                                                                                                                  |
+| 3     | 09/02-12/02  | [GPIO and Abstraction Costs](https://github.com/STFleming/EmSys_Lecture3)  |                                                                                                                  |
+| 4     | 15/02-19/02  | [Analogue and Digital](https://github.com/STFleming/EmSys_Analogue_and_Digital)                 |                                                                                                                  |
+| 5     | 22/02-26/02  | [Worse Case Execution Time](https://github.com/STFleming/EmSys_Lecture3)                 | Lab 1 logbook due 11:00 15/02/2020; [Lab 2 Start 19/02/2020](https://github.com/STFleming/EmSys_Lab2)            |
+| 6     | 01/03-05/03  | [Real-Time Operating Systems](https://github.com/STFleming/EmSys_Lecture4)  |                                                                                                                  |
 | 7     | 08/03-12/03  | [Bus-based Communications and Protocols](https://github.com/STFleming/EmSys_Lecture6)     |                                                                                                                  |
 | 8     | 15/03-19/03  | [Power Consumption](https://github.com/STFleming/EmSys_Lecture7) | Lab 2 logbook due 11:00 08/03/2020; [Coursework Start 12/03/2020](https://github.com/STFleming/EmSys_Coursework) |
 | 9     | 22/03-26/03  | [Maths -- Hardware, Errors, and Performance](https://github.com/STFleming/EmSys_Lecture8)   |                                                                                                                  |
@@ -28,7 +28,6 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 | 13    | 19/04-23/04  | Break                                                                                     |                                                                                                                  |
 | 14    |  | [Fault Tolerance](https://github.com/STFleming/EmSys_Lecture10)                                                           |                                                                                                                  |
 | 15    |  | Revision Lecture or Extra lab                                                           | Coursework Deadline due 11:00 26/04/2020                                                                         |
-
 
 Lectures are every Tuesday at 16:00.
 Link to the Zoom lecture: [here](https://swanseauniversity.zoom.us/j/91305669799?pwd=L0NhQlRQMnlOZWQxblp0TEFrSUVlZz09) passcode: 411246 
