@@ -6,8 +6,8 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 
 ### Useful links
 * Setting up your EmSys lab environment [[here](https://github.com/STFleming/EmSys_labSetup)]
-* Group Signup Form [[here](https://login.microsoftonline.com/common/oauth2/authorize?response_mode=form_post&response_type=id_token+code&scope=openid&msafed=0&nonce=c85d8f6e-b026-4c28-8d69-dd2bfc95bf34.637478614733847867&state=https%3A%2F%2Fforms.office.com%2FPages%2FResponsePage.aspx%3Fid%3DLrXKu76f1kOi859mxD3yaGURemXIkvJEi0OJyB0IdsxUNDNPUVFHWFdZSVFQMUhTTTNTRDRBSjBRNi4u&client_id=c9a559d2-7aab-4f13-a6ed-e7e9c52aec87&redirect_uri=https%3a%2f%2fforms.office.com%2fauth%2fsignin)] 
 * Machine allocations [[here](https://github.com/STFleming/EmSys_labSetup/tree/main/allocations)]
+* Latest virtual lab url [[here](http://ec2-3-137-138-176.us-east-2.compute.amazonaws.com:4000/)]
 
 -----------------------------------------------------------------------------------
 ### Course Schedule
@@ -31,6 +31,15 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 
 Lectures are every Tuesday at 16:00.
 Link to the Zoom lecture: [here](https://swanseauniversity.zoom.us/j/91305669799?pwd=L0NhQlRQMnlOZWQxblp0TEFrSUVlZz09) passcode: 411246 
+
+### Lecture Recordings
+| Week  | dates       |  Recording                                                             |
+|-------|-------------|-------------------------------------------------------------------------------------------|
+| 1     | 25/01-29/01  | [Introduction](https://swanseauniversity.zoom.us/rec/share/gkvoHapmdDuxbSCXoAZfUMENttcLPyKbxITJROn7lPzjQ6m7xJyt6LFhYFybcLDg.KUccKj8NaIK-s6kL?startTime=1611676186000)                              |          
+| 2     | 01/02-05/02  | [Labs and HW/SW Interface](https://swanseauniversity.zoom.us/rec/share/VHZfQuRQ5KKBLDydeet2iUWsPt-hQwPT4GMorPA5xoWZO8SVdsd6fXKnoe7f2kOf.iWZcttljWdw0a5gG?startTime=1612281398000)      |
+| 3     | 09/02-12/02  | [GPIO and Abstraction Costs](https://swanseauniversity.zoom.us/rec/share/_zmA_gv90_ikaL0tq_fmaSXHk3CgGKkrXCMtuRLF0xPGK5Q9LlmxHyAKzGX4cNH1.Ww2VWlbzeMnm34q8?startTime=1612886843000)  |
+| 4     | 15/02-19/02  | [Analogue and Digital](https://swanseauniversity.zoom.us/rec/share/iHJXy0K7DcbBz91yZ_IwcUhNkG2oJ-VE0F5hm2YjWywLMezmMWFm5McYit0Ygyg6.we0uVGLYwfVBBugC?startTime=1613490997000)  |
+
 
 -----------------------------------------------------------------------------------
 ### Datasheets & Technical Reference Manuals
