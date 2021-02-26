@@ -7,7 +7,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 ### Useful links
 * Setting up your EmSys lab environment [[here](https://github.com/STFleming/EmSys_labSetup)]
 * Machine allocations [[here](https://github.com/STFleming/EmSys_labSetup/tree/main/allocations)]
-* Latest virtual lab url [[here](http://ec2-3-16-149-187.us-east-2.compute.amazonaws.com:4000/)]
+* Latest virtual lab url [[here](http://ec2-3-139-102-167.us-east-2.compute.amazonaws.com:4000/)]
 
 -----------------------------------------------------------------------------------
 ### Course Schedule
