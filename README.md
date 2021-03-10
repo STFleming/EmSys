@@ -40,6 +40,7 @@ Link to the Zoom lecture: [here](https://swanseauniversity.zoom.us/j/91305669799
 | 3     | 09/02-12/02  | [GPIO and Abstraction Costs](https://swanseauniversity.zoom.us/rec/share/_zmA_gv90_ikaL0tq_fmaSXHk3CgGKkrXCMtuRLF0xPGK5Q9LlmxHyAKzGX4cNH1.Ww2VWlbzeMnm34q8?startTime=1612886843000)  |
 | 4     | 15/02-19/02  | [Analogue and Digital](https://swanseauniversity.zoom.us/rec/share/iHJXy0K7DcbBz91yZ_IwcUhNkG2oJ-VE0F5hm2YjWywLMezmMWFm5McYit0Ygyg6.we0uVGLYwfVBBugC?startTime=1613490997000)  |
 | 5     | 22/02-26/02  | [PWM and Hardware Timers](https://swanseauniversity.zoom.us/rec/play/nN_Cztjf__LNQaDkIO7or6V8MxYto9tNf4BWrsz_f4RNJqu8xsK_zzuRO0PrZqSxeavm24q--s1KF37H.Ew4yzgI7mk0UL3DG?startTime=1614095098000)  |
+| 7     | 08/03-12/03  | [WCET and RTOS](https://swanseauniversity.zoom.us/rec/share/nNxbocr8Qd2FAT2k_96V8uFbIdwQBptcaCa8KMXcRzntAU4T1Kq2MxoGYc4XuVFT.ERacm5pxL-IWThGN?startTime=1615305145000)  |
 
 
 -----------------------------------------------------------------------------------
