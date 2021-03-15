@@ -27,7 +27,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 | 12    | 12/04-16/04  | Break                                                                                     |                                                                                                                  |
 | 13    | 19/04-23/04  | Break                                                                                     |                                                                                                                  |
 | 14    |  | [Fault Tolerance](https://github.com/STFleming/EmSys_Lecture10)                                                           |                                                                                                                  |
-| 15    |  | Revision Lecture or Extra lab                                                           | Coursework Deadline due 11:00 26/04/2020                                                                         |
+| 15    |  | Revision Lecture or Extra lab                                                           | Coursework Deadline due 11:00 19/04/2020                                                                         |
 
 Lectures are every Tuesday at 16:00.
 Link to the Zoom lecture: [here](https://swanseauniversity.zoom.us/j/91305669799?pwd=L0NhQlRQMnlOZWQxblp0TEFrSUVlZz09) passcode: 411246 
