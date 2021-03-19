@@ -13,21 +13,19 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 ### Course Schedule
 | Week  | dates       | Lecture (Tuesdays 16:00 - 18:00)                                                          | Labs (Fridays 15:00 - 17:00)                                                                                     | 
 |-------|-------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 1     | 25/01-29/01  | [Introduction](https://github.com/STFleming/EmSys_Lecture1);                              |                                                 |
-| 2     | 01/02-05/02  | [Labs and HW/SW Interface](https://github.com/STFleming/EmSys_LabIntro_MemoryMappedHardware);      |                                                 |
+| 1     | 25/01-29/01  | [Introduction](https://github.com/STFleming/EmSys_Lecture1)                              |                                                 |
+| 2     | 01/02-05/02  | [Labs and HW/SW Interface](https://github.com/STFleming/EmSys_LabIntro_MemoryMappedHardware)      |                                                 |
 | 3     | 09/02-12/02  | [GPIO and Abstraction Costs](https://github.com/STFleming/EmSys_GPIO_and_Abstraction_Costs)  |    [Lab 1 Start 10/02/2020](https://github.com/STFleming/EmSys_Lab1)                                                                                                              |
 | 4     | 15/02-19/02  | [Analogue and Digital](https://stfleming.github.io/EmSys_Analogue_and_Digital)                 |                                                                                                                  |
 | 5     | 22/02-26/02  | [PWM and Hardware Timers](https://github.com/STFleming/EmSys_PWM_and_HW_Timers)                 |             |
 | 6     | 01/03-05/03  | [[mini-lecture lab setup](https://www.youtube.com/watch?v=UkjcmOvF6Mw&ab_channel=ShaneFleming)] [[mini-lecture interrupts](https://youtu.be/OHArGGwXDtI)] |  Lab 1 logbook due 11:00 01/03/2020; [Lab 2 Start 01/03/2020](https://github.com/STFleming/EmSys_Lab2)                                                                                                              |
 | 7     | 08/03-12/03  | [Worst-Case Execution Time and RTOS](https://github.com/STFleming/EmSys_Worst_Case_Execution_Time)     |                                                                                                                  |
-| 8     | 15/03-19/03  | [Power Consumption](https://github.com/STFleming/EmSys_Lecture7) | Lab 2 logbook due 11:00 20/03/2020; [Lab 3 Start 12/03/2020](https://github.com/STFleming/EmSys_Lab3) |
-| 9     | 22/03-26/03  | [Maths -- Hardware, Errors, and Performance](https://github.com/STFleming/EmSys_Lecture8)   |                                                                                                                  |
-| 10    | 29/03-02/04  | [Custom Hardware and Acceleration (FPGAs)](https://github.com/STFleming/EmSys_Lecture9)                            |                                                                                                                  |
+| 8     | 15/03-19/03  | - | Lab 2 logbook due 11:00 20/03/2020; [Lab 3 Start 12/03/2020](https://github.com/STFleming/EmSys_Lab3) |
+| 9     | 22/03-26/03  | [Power Consumption & Custom Hardware and Acceleration (FPGAs)](https://github.com/STFleming/EmSys_Lecture9)   |                                                                                                                  |
+| 10    | 29/03-02/04  | Break                            |                                                                                                                  |
 | 11    | 05/04-09/04  | Break                                                                                     |                                                                                                                  |
 | 12    | 12/04-16/04  | Break                                                                                     |                                                                                                                  |
-| 13    | 19/04-23/04  | Break                                                                                     |                                                                                                                  |
-| 14    |  | [Fault Tolerance](https://github.com/STFleming/EmSys_Lecture10)                                                           |                                                                                                                  |
-| 15    |  | Revision Lecture or Extra lab                                                           | Coursework Deadline due 11:00 19/04/2020                                                                         |
+| 13    | 19/04-23/04  | Revision Lecture (Practice Exam)          |  Lab 3 logbook due 19/04/2021 @ 11:00am                                                         |
 
 Lectures are every Tuesday at 16:00.
 Link to the Zoom lecture: [here](https://swanseauniversity.zoom.us/j/91305669799?pwd=L0NhQlRQMnlOZWQxblp0TEFrSUVlZz09) passcode: 411246 
