@@ -27,7 +27,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 | 6     | 01/03-05/03  | [[mini-lecture lab setup](https://www.youtube.com/watch?v=UkjcmOvF6Mw&ab_channel=ShaneFleming)] [[mini-lecture interrupts](https://youtu.be/OHArGGwXDtI)] |  Lab 1 logbook due 11:00 01/03/2020; [Lab 2 Start 01/03/2020](https://github.com/STFleming/EmSys_Lab2)                                                                                                              |
 | 7     | 08/03-12/03  | [Worst-Case Execution Time and RTOS](https://github.com/STFleming/EmSys_Worst_Case_Execution_Time)     |                                                                                                                  |
 | 8     | 15/03-19/03  | - | Lab 2 logbook due 11:00 20/03/2020; [Lab 3 Start 12/03/2020](https://github.com/STFleming/EmSys_Lab3) |
-| 9     | 22/03-26/03  | [Power Consumption & Custom Hardware and Acceleration (FPGAs)](https://github.com/STFleming/EmSys_Lecture9)   |                                                                                                                  |
+| 9     | 22/03-26/03  | [Power Consumption & Custom Hardware and Acceleration (FPGAs)](https://stfleming.github.io/EmSys_Power/)   |                                                                                                                  |
 | 10    | 29/03-02/04  | Break                            |                                                                                                                  |
 | 11    | 05/04-09/04  | Break                                                                                     |                                                                                                                  |
 | 12    | 12/04-16/04  | Break                                                                                     |                                                                                                                  |
@@ -46,6 +46,7 @@ Link to the Zoom lecture: [here](https://swanseauniversity.zoom.us/j/91305669799
 | 5     | 22/02-26/02  | [PWM and Hardware Timers](https://swanseauniversity.zoom.us/rec/play/nN_Cztjf__LNQaDkIO7or6V8MxYto9tNf4BWrsz_f4RNJqu8xsK_zzuRO0PrZqSxeavm24q--s1KF37H.Ew4yzgI7mk0UL3DG?startTime=1614095098000)  |
 | 6     | 01/03-05/03  | [Interrupts](https://youtu.be/OHArGGwXDtI)  |
 | 7     | 08/03-12/03  | [WCET and RTOS](https://swanseauniversity.zoom.us/rec/share/nNxbocr8Qd2FAT2k_96V8uFbIdwQBptcaCa8KMXcRzntAU4T1Kq2MxoGYc4XuVFT.ERacm5pxL-IWThGN?startTime=1615305145000)  |
+| 9     | 22/03-26/03  | [Power Consumption (and FPGAs)]()https://swanseauniversity.zoom.us/rec/play/tKOPs4ECCcQn9_fZugE7p1bpZFNz8mgtRao-zwzo8h1wVT08qYB1TtugTQjdIduH02Jd2Xu8sgujwq16.LwGufl5cqh-j1qSi?autoplay=true&startTime=1616515065000)  |
 
 
 -----------------------------------------------------------------------------------
