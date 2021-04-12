@@ -31,7 +31,8 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 | 10    | 29/03-02/04  | Break                            |                                                                                                                  |
 | 11    | 05/04-09/04  | Break                                                                                     |                                                                                                                  |
 | 12    | 12/04-16/04  | Break                                                                                     |                                                                                                                  |
-| 13    | 19/04-23/04  | Revision Lecture (Practice Exam)          |  Lab 3 logbook due 19/04/2021 @ 11:00am                                                         |
+| 13    | 19/04-23/04  |               |  Lab 3 logbook due 19/04/2021 @ 11:00am                                                         |
+| 14    | 26/04-30/04  | Revision Lecture              |  Lab 3 logbook due 19/04/2021 @ 11:00am                                                         |
 
 Lectures are every Tuesday at 16:00.
 Link to the Zoom lecture: [here](https://swanseauniversity.zoom.us/j/91305669799?pwd=L0NhQlRQMnlOZWQxblp0TEFrSUVlZz09) passcode: 411246 
