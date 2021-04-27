@@ -32,7 +32,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 | 11    | 05/04-09/04  | Break                                                                                     |                                                                                                                  |
 | 12    | 12/04-16/04  | Break                                                                                     |                                                                                                                  |
 | 13    | 19/04-23/04  |               |  Lab 3 logbook due 19/04/2021 @ 11:00am                                                         |
-| 14    | 26/04-30/04  | Revision Lecture              |                                                           |
+| 14    | 26/04-30/04  | Revision Lecture ([pre recorded](https://github.com/STFleming/EmSysPracticeExam))              |                                                           |
 
 Lectures are every Tuesday at 16:00.
 Link to the Zoom lecture: [here](https://swanseauniversity.zoom.us/j/91305669799?pwd=L0NhQlRQMnlOZWQxblp0TEFrSUVlZz09) passcode: 411246 
