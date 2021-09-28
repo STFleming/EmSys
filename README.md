@@ -13,7 +13,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 | CW 1       | Designing a communication protocol                                      | Individual report | 15%               | Lab pairs        |
 | Lab 4      | Verilog Intro & HW Timers                                                      | Signoff           | 5%                | Lab pairs        |
 | Lab 5      | Pulse Width Modulation (PWM)                                            | Signoff           | 5%                | Lab pairs        |
-| CW 2       | IoT sensor node design focussing on power consumption                   | Individual report | 15%               | Lab pairs        |
+| CW 2       | Low-power IoT sensor                   | Individual report | 15%               | Lab pairs        |
 
 * All the lab work is completed in pairs. Pairing will be determined at the start of term.
 * A "Signoff" assessment type means that I will look over your GitHub repository and check that the task has been completed and then update the marks. 
