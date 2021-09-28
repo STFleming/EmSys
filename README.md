@@ -7,24 +7,49 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 ### Lab and Coursework Breakdown
 |            | Lab description                                                                | Assessment type   | Overall weighting | Pairs/Individual |
 |------------|--------------------------------------------------------------------------------|-------------------|-------------------|------------------|
-| Lab 1      | TinyPico Introduction; DotDevice                                               | Signoff           | 5%                | Lab pairs        |
-| Lab 2      | GPIO deep dive; Describing basic circuits with Verilog                         | Signoff           | 5%                | Lab pairs        |
-| Lab 3      | Designing a communication protocol                                             | Individual report | 15%               | Lab pairs        |
-| Lab 4      | Describing Sequential Logic                                                    | Signoff           | 5%                | Lab pairs        |
-| Lab 5      | Configuring a PWM peripheral; Designing a PWM hardware peripheral from scratch | Signoff           | 5%                | Lab pairs        |
-| Lab 6      | IoT sensor node design focussing on power consumption                          | Individual report | 15%               | Lab pairs        |
-| Coursework | Developing dotDevice hardware                                                  | Individual report | 50%               | Individual       |
+| Lab 1      | Secret Word                                                                    | Signoff           | 2%                | Lab pairs        |
+| Lab 2      | Arduino introduction and dotDevice                                             | Signoff           | 3%                | Lab pairs        |
+| Lab 3      | GPIO deep dive                                                                 | Signoff           | 5%                | Lab pairs        |
+| CW 1       | Designing a communication protocol                                      | Individual report | 15%               | Lab pairs        |
+| Lab 4      | Verilog Intro & HW Timers                                                      | Signoff           | 5%                | Lab pairs        |
+| Lab 5      | Pulse Width Modulation (PWM) & build a PWM                     | Signoff           | 5%                | Lab pairs        |
+| CW 2       | IoT sensor node design focussing on power consumption                   | Individual report | 15%               | Lab pairs        |
 
 * All the lab work is completed in pairs. Pairing will be determined at the start of term.
-* A "Signoff" assessment type means that at the end of the lab a demonstrator will check your lab pairs work, provide feedback, and sign it off to get the marks for that lab. 
-* An "Individual report" assessment type means that each student will need to submit an individual report for marking, where feedback is returned within 2 weeks. 
+* A "Signoff" assessment type means that I will look over your GitHub repository and check that the task has been completed and then update the marks. 
+* An "Individual report" assessment type means that each student will need to submit an individual report for marking, where feedback is returned within 2 weeks. These larger assignments will be submitted via canvas. 
+
+### Lab/CW Schedule (subject to change)
+
+Below is a rough schedule of when the Lab/CW exercises will be released and due.
+
+| Week       |                                        |
+|------------|----------------------------------------|
+| 1          |  Collect HW                            |
+| 2          |  Lab 1 spec released                   |
+| 3          |  Lab 2 spec released                   |
+| 4          |  Lab 3 spec released                   |
+| 5          |  Lab 1-3 due; CW 1 released            |
+| 6          |                                        |
+| 7          |  CW 1 due; Lab 4 released              |
+| 8          |  Lab 5 released                        |
+| 9          |  Lab 4-5 due; CW 2 released            |
+| 10         |                                        |
+| 11         |  CW2 due                               |
+
+
+### Exams
+There a 50% exam component for this module. 
+
+__A practice exam can be found [[here](https://github.com/STFleming/EmSysPracticeExam)]__ along with videos explaining the answers to the questions.
+
+_Some components in the module this term have changed slightly, closer to the exam I will add additional practice questions for the additional content on the module._
 
 ### Useful links
 * Setting up your EmSys lab environment [[here](https://github.com/STFleming/EmSys_labSetup)]
-* Latest virtual lab url [[here](http://ec2-52-15-138-171.us-east-2.compute.amazonaws.com:4000/)]
 
 -----------------------------------------------------------------------------------
-### Lecture Schedule and Course Content
+### Lecture Schedule and Course Content (subject to change)
 | Week  | dates       | Lecture 			                                                          | 				                                                                                     | 
 |-------|-------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | 1     |   |  -                               |                                                 |
