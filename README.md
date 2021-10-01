@@ -52,23 +52,13 @@ _Some components in the module this term have changed slightly, closer to the ex
 ### Lecture Schedule and Course Content (subject to change)
 | Week  | dates       | Lecture 			                                                          | 				                                                                                     | 
 |-------|-------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 1     |   |  -                               |                                                 |
-| 2     |   | [Introduction & Course Overview]()                              |                                                 |
-| 3     |   | [Memory Mapped I/O, C Pointers, Bit Manipulation, Verilog Intro]()                              |                                                 |
-| 4     |   | [Communications]()                              |                                                 |
-| 5     |   | [Verilog: Sequential Logic & State]()                              |                                                 |
-| 6     |   | [Digitial-to-Analog conversion, HW Timers, and PWM modules]()                              |                                                 |
-| 7     |   | [Interrupts and Power Consumption]()                              |                                                 |
-| 8     |   | [Coursework Overview]()                              |                                                 |
-| 9     |   | [Worst Case Execution Time]()                              |                                                 |
-| 10    |   | [Real Time Operating Systems]()                              |                                                 |
-| 11    |   | [FPGA Devices]()                              |                                                 |
+| 1     |  30/09   |  -                               |                                                 |
 
 
 ### Lecture Recordings
 | Week  | dates       |  Recording                                                                                |
 |-------|-------------|-------------------------------------------------------------------------------------------|
-| 1     |             |                                                                                           |          
+| 1     |  30/09      | [[video](https://swanseauniversity.zoom.us/rec/share/z19jZZvR1iy7D_5DGU_HRE2N8n-xzmR4a5qG0sIhJAAkmrto7c68r5DbLlyQNWRq.nEJyq6mEGpcsFsVJ)]                                                                                           |          
 
 
 -----------------------------------------------------------------------------------
