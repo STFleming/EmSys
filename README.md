@@ -52,7 +52,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 ### Lecture Schedule and Course Content (subject to change)
 | Week  | dates       | Lecture 			                                                          | 				                                                                                     | 
 |-------|-------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 1     |  30/09   |  -                               |                                                 |
+| 1     |  30/09   |  [[lecture repo](https://github.com/STFleming/EmSys_21A_Lecture1)]                               |                                                 |
 
 
 ### Lecture Recordings
