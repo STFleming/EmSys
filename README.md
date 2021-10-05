@@ -42,6 +42,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 
 ### Useful links
 * Setting up your EmSys lab environment [[here](https://github.com/STFleming/EmSys_labSetup)]
+* Using your github logbook [[video](https://www.youtube.com/watch?v=YTgEFzmuQWE)]
 
 -----------------------------------------------------------------------------------
 ### Lecture Schedule and Course Content (subject to change)
