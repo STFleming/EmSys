@@ -19,23 +19,18 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 * A "Signoff" assessment type means that I will look over your GitHub repository and check that the task has been completed and then update the marks. 
 * An "Individual report" assessment type means that each student will need to submit an individual report for marking, where feedback is returned within 2 weeks. These larger assignments will be submitted via canvas. 
 
-### Lab/CW Schedule (subject to change)
+### Lab/CW Schedule 
 
-Below is a rough schedule of when the Lab/CW exercises will be released and due.
-
-| Week       |                                        |
-|------------|----------------------------------------|
-| 1          |  Collect HW                            |
-| 2          |  Lab 1 spec released                   |
-| 3          |  Lab 2 spec released                   |
-| 4          |  Lab 3 spec released                   |
-| 5          |  Lab 1-3 due; CW 1 released            |
-| 6          |                                        |
-| 7          |  CW 1 due; Lab 4 released              |
-| 8          |  Lab 5 released                        |
-| 9          |  Lab 4-5 due; CW 2 released            |
-| 10         |                                        |
-| 11         |  CW2 due                               |
+|  Lab/CW                                | Release date       | Due Date          |
+|----------------------------------------|--------------------|-------------------|
+|  Lab 1                                 | 05/10/2021         | 25/10/2021 @ 11am |
+|  Lab 2                                 | 11/10/2021         | 25/10/2021 @ 11am |
+|  Lab 3                                 | 18/10/2021         | 25/10/2021 @ 11am |
+|  CW 1                                  | 25/10/2021         | 08/11/2021 @ 11am |
+|                                        |                    |                   |
+|  Lab 4 released                        |  TBA               |  TBA              |
+|  Lab 5 released                        |  TBA               |  TBA              |
+|  CW 2                                  |  TBA               |  TBA              |
 
 
 ### Exams
