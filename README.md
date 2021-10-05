@@ -49,6 +49,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 | Week  | dates       | Lecture 			                                                          | 				                                                                                     | 
 |-------|-------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | 1     |  30/09   |  [[lecture repo](https://github.com/STFleming/EmSys_21A_Lecture1)]                               |                                                 |
+| 2     |  7/10    |  [[lecture repo](https://github.com/STFleming/EmSys_21A_Lecture2)]                               |                                                 |
 
 
 ### Lecture Recordings
