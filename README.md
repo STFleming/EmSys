@@ -56,6 +56,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 | Week  | dates       |  Recording                                                                                |
 |-------|-------------|-------------------------------------------------------------------------------------------|
 | 1     |  30/09      | [[video](https://swanseauniversity.zoom.us/rec/share/z19jZZvR1iy7D_5DGU_HRE2N8n-xzmR4a5qG0sIhJAAkmrto7c68r5DbLlyQNWRq.nEJyq6mEGpcsFsVJ)]                                                                                           |          
+| 2     |  07/10      | [[video](https://swanseauniversity.zoom.us/rec/share/XfrZWC1erWqmQWKa6U2qrkDwb2RJjzE9alv8ozRDvDWq0-nu-ps9QDmcYraAxltS.-zQx4cnKkFVtY-e8?startTime=1633610700000)]                                                                                           |          
 
 
 -----------------------------------------------------------------------------------
