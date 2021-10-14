@@ -10,10 +10,9 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 | Lab 1      | [Secret Word](https://github.com/STFleming/EmSys_21A_lab1)                     | Signoff           | 2%                | Lab pairs        |
 | Lab 2      | [Arduino introduction and dotDevice](https://github.com/STFleming/EmSys_21A_lab2)                                             | Signoff           | 3%                | Lab pairs        |
 | Lab 3      | GPIO deep dive                                                                 | Signoff           | 5%                | Lab pairs        |
-| CW 1       | Designing a communication protocol                                      | Individual report | 15%               | Lab pairs        |
 | Lab 4      | Verilog Intro & HW Timers                                                      | Signoff           | 5%                | Lab pairs        |
 | Lab 5      | Pulse Width Modulation (PWM)                                            | Signoff           | 5%                | Lab pairs        |
-| CW 2       | Low-power IoT sensor                   | Individual report | 15%               | Lab pairs        |
+| CW 1       | Low-power IoT sensor                   | Individual report | 30%               | Lab pairs        |
 
 * All the lab work is completed in pairs. Pairing will be determined at the start of term.
 * A "Signoff" assessment type means that I will look over your GitHub repository and check that the task has been completed and then update the marks. 
@@ -26,11 +25,9 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 |  Lab 1                                 | 05/10/2021         | 25/10/2021 @ 11am |
 |  Lab 2                                 | 11/10/2021         | 25/10/2021 @ 11am |
 |  Lab 3                                 | 18/10/2021         | 25/10/2021 @ 11am |
-|  CW 1                                  | 25/10/2021         | 08/11/2021 @ 11am |
-|                                        |                    |                   |
 |  Lab 4 released                        |  TBA               |  TBA              |
 |  Lab 5 released                        |  TBA               |  TBA              |
-|  CW 2                                  |  TBA               |  TBA              |
+|  CW 1                                  |  TBA               |  TBA              |
 
 
 ### Exams
@@ -50,6 +47,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 |-------|-------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | 1     |  30/09   |  [[lecture repo](https://github.com/STFleming/EmSys_21A_Lecture1)]                               |                                                 |
 | 2     |  7/10    |  [[lecture repo](https://github.com/STFleming/EmSys_21A_Lecture2)]                               |                                                 |
+| 3     |  14/10    | [[lecture repo](https://github.com/STFleming/EmSys_GPIO_and_Abstraction_Costs)]                               |                                                 |
 
 
 ### Lecture Recordings
