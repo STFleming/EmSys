@@ -9,7 +9,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 |------------|--------------------------------------------------------------------------------|-------------------|-------------------|------------------|
 | Lab 1      | [Secret Word](https://github.com/STFleming/EmSys_21A_lab1)                     | Signoff           | 2%                | Lab pairs        |
 | Lab 2      | [Arduino introduction and dotDevice](https://github.com/STFleming/EmSys_21A_lab2)                                             | Signoff           | 3%                | Lab pairs        |
-| Lab 3      | GPIO deep dive                                                                 | Signoff           | 5%                | Lab pairs        |
+| Lab 3      | [GPIO deep dive](https://github.com/STFleming/EmSys_21A_lab3)                  | Signoff           | 5%                | Lab pairs        |
 | Lab 4      | Verilog Intro & HW Timers                                                      | Signoff           | 5%                | Lab pairs        |
 | Lab 5      | Pulse Width Modulation (PWM)                                            | Signoff           | 5%                | Lab pairs        |
 | CW 1       | Low-power IoT sensor                   | Individual report | 30%               | Lab pairs        |
@@ -45,9 +45,9 @@ _Some components in the module this term have changed slightly, closer to the ex
 ### Lecture Schedule and Course Content (subject to change)
 | Week  | dates       | Lecture 			                                                          | 				                                                                                     | 
 |-------|-------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 1     |  30/09   |  [[lecture repo](https://github.com/STFleming/EmSys_21A_Lecture1)]                               |                                                 |
-| 2     |  7/10    |  [[lecture repo](https://github.com/STFleming/EmSys_21A_Lecture2)]                               |                                                 |
-| 3     |  14/10    | [[lecture repo](https://github.com/STFleming/EmSys_GPIO_and_Abstraction_Costs)]                               |                                                 |
+| 1     |  30/09   |  [[Introduction to the course](https://github.com/STFleming/EmSys_21A_Lecture1)]                               |                                                 |
+| 2     |  7/10    |  [[HW/SW](https://github.com/STFleming/EmSys_21A_Lecture2)]                               |                                                 |
+| 3     |  14/10    | [[GPIO and the cost of the Arduino abstractions](https://github.com/STFleming/EmSys_GPIO_and_Abstraction_Costs)]                               |                                                 |
 
 
 ### Lecture Recordings
