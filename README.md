@@ -48,6 +48,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 | 1     |  30/09   |  [[Introduction to the course](https://github.com/STFleming/EmSys_21A_Lecture1)]                               |                                                 |
 | 2     |  7/10    |  [[HW/SW](https://github.com/STFleming/EmSys_21A_Lecture2)]                               |                                                 |
 | 3     |  14/10    | [[GPIO and the cost of the Arduino abstractions](https://github.com/STFleming/EmSys_GPIO_and_Abstraction_Costs)]                               |                                                 |
+| 4     |  21/10    | [[Hardware Description Languages](https://github.com/STFleming/EmSys_Hardware_Description_Languages)]                               |                                                 |
 
 
 ### Lecture Recordings
