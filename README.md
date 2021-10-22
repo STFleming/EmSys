@@ -57,6 +57,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 | 1     |  30/09      | [[video](https://swanseauniversity.zoom.us/rec/share/z19jZZvR1iy7D_5DGU_HRE2N8n-xzmR4a5qG0sIhJAAkmrto7c68r5DbLlyQNWRq.nEJyq6mEGpcsFsVJ)]                                                                                           |          
 | 2     |  07/10      | [[video](https://swanseauniversity.zoom.us/rec/share/XfrZWC1erWqmQWKa6U2qrkDwb2RJjzE9alv8ozRDvDWq0-nu-ps9QDmcYraAxltS.-zQx4cnKkFVtY-e8?startTime=1633610700000)]                                                                                           |          
 | 3     |  14/10      | [[video](https://swanseauniversity.zoom.us/rec/play/A8RBclaX4TlrNoBCyfGxA9FXxaHdIP6-GjN7PJHwRoL8x9hDiV-yap2nf_K5txCV9KRnI9IjlwD638LV.DTG_IWEC32C_jvtH?startTime=1634215328000)]                                                                                           |          
+| 4     |  21/10      | [[video](https://swanseauniversity.zoom.us/rec/play/jRNhaI29sOGrarpnjqEhOeSkZzyyxDSETOonRDHR0clws2s4De9hyjkORMdXi9olymIX8Pqpyf9FkBHc.Yk9F0Au2HPSdEjWs?startTime=1634818658000)]                                                                                           |          
 
 
 -----------------------------------------------------------------------------------
