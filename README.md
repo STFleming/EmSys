@@ -8,9 +8,9 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 |            | Lab description                                                                | Assessment type   | Overall weighting | Pairs/Individual |
 |------------|--------------------------------------------------------------------------------|-------------------|-------------------|------------------|
 | Lab 1      | [Secret Word](https://github.com/STFleming/EmSys_21A_lab1)                     | Signoff           | 2%                | Lab pairs        |
-| Lab 2      | [Arduino introduction and dotDevice](https://github.com/STFleming/EmSys_21A_lab2)                                             | Signoff           | 3%                | Lab pairs        |
+| Lab 2      | [Arduino introduction and dotDevice](https://github.com/STFleming/EmSys_21A_lab2)  | Signoff           | 3%                | Lab pairs        |
 | Lab 3      | [GPIO deep dive](https://github.com/STFleming/EmSys_21A_lab3)                  | Signoff           | 5%                | Lab pairs        |
-| Lab 4      | Verilog Intro & HW Timers                                                      | Signoff           | 5%                | Lab pairs        |
+| Lab 4      | [Verilog Lab: designing an ALU](https://github.com/STFleming/emsys_21A_lab4)   | Signoff           | 5%                | Lab pairs        |
 | Lab 5      | Pulse Width Modulation (PWM)                                            | Signoff           | 5%                | Lab pairs        |
 | CW 1       | Low-power IoT sensor                   | Individual report | 30%               | Lab pairs        |
 
@@ -25,7 +25,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 |  Lab 1                                 | 05/10/2021         | 25/10/2021 @ 11am |
 |  Lab 2                                 | 11/10/2021         | 25/10/2021 @ 11am |
 |  Lab 3                                 | 18/10/2021         | 25/10/2021 @ 11am |
-|  Lab 4 released                        |  TBA               |  TBA              |
+|  Lab 4 released                        | 26/10/2021         | 16/11/2021 @ 11am |
 |  Lab 5 released                        |  TBA               |  TBA              |
 |  CW 1                                  |  TBA               |  TBA              |
 
