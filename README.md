@@ -27,7 +27,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 |  Lab 3                                 | 18/10/2021         | 25/10/2021 @ 11am |
 |  Lab 4 released                        | 26/10/2021         | 16/11/2021 @ 11am |
 |  Lab 5 released                        |  TBA               |  TBA              |
-|  CW 1                                  |  TBA               |  TBA              |
+|  CW 1                                  | 08/11/2021         | 06/12/2021 @ 11am |
 
 
 ### Exams
