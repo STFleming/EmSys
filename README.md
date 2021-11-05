@@ -11,7 +11,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 | Lab 2      | [Arduino introduction and dotDevice](https://github.com/STFleming/EmSys_21A_lab2)  | Signoff           | 3%                | Lab pairs        |
 | Lab 3      | [GPIO deep dive](https://github.com/STFleming/EmSys_21A_lab3)                  | Signoff           | 5%                | Lab pairs        |
 | Lab 4      | [Verilog Lab: designing an ALU](https://github.com/STFleming/emsys_21A_lab4)   | Signoff           | 5%                | Lab pairs        |
-| Lab 5      | Pulse Width Modulation (PWM)                                            | Signoff           | 5%                | Lab pairs        |
+| Lab 5      | [ESP32 Hardware Timers and Verilog Timers](https://github.com/STFleming/emsys_21A_lab5)                                            | Signoff           | 5%                | Lab pairs        |
 | CW 1       | Low-power IoT sensor                   | Individual report | 30%               | Lab pairs        |
 
 * All the lab work is completed in pairs. Pairing will be determined at the start of term.
@@ -26,7 +26,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 |  Lab 2                                 | 11/10/2021         | 25/10/2021 @ 11am |
 |  Lab 3                                 | 18/10/2021         | 25/10/2021 @ 11am |
 |  Lab 4                                 | 26/10/2021         | 22/11/2021 @ 11am |
-|  Lab 5                                 | 04/11/2021         | 22/11/2021 @ 11am |
+|  Lab 5                                 | 05/11/2021         | 22/11/2021 @ 11am |
 |  CW 1                                  | 08/11/2021         | 06/12/2021 @ 11am |
 
 
