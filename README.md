@@ -50,6 +50,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 | 3     |  14/10    | [[GPIO and the cost of the Arduino abstractions](https://github.com/STFleming/EmSys_GPIO_and_Abstraction_Costs)]                               |                                                 |
 | 4     |  21/10    | [[Hardware Description Languages](https://github.com/STFleming/EmSys_Hardware_Description_Languages)]                               |                                                 |
 | 5     |  28/10    | [[Synchronous Sequential Logic](https://github.com/STFleming/EmSys_Sequential_Logic)]                          |                                                 |
+| 6     |   -    | -    |                                                 |
 
 
 ### Lecture Recordings
@@ -60,6 +61,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 | 3     |  14/10      | [[video](https://swanseauniversity.zoom.us/rec/play/A8RBclaX4TlrNoBCyfGxA9FXxaHdIP6-GjN7PJHwRoL8x9hDiV-yap2nf_K5txCV9KRnI9IjlwD638LV.DTG_IWEC32C_jvtH?startTime=1634215328000)]                                                                                           |          
 | 4     |  21/10      | [[video](https://swanseauniversity.zoom.us/rec/play/jRNhaI29sOGrarpnjqEhOeSkZzyyxDSETOonRDHR0clws2s4De9hyjkORMdXi9olymIX8Pqpyf9FkBHc.Yk9F0Au2HPSdEjWs?startTime=1634818658000)]                                                                                           |          
 | 5     |  28/10      | [[video](https://swanseauniversity.zoom.us/rec/share/7txON84ZVY0688wAaKXllfzzdBwpQettMSOYITK_cQepj_Cti0BxICs0g7-3f9c.-5zbg0tQLBfVHhU3)]                                                                                           |          
+| 6     |  9/10      | [[video](https://youtu.be/XMJrXcN7FpA)]                                                                                           |          
 
 
 -----------------------------------------------------------------------------------
