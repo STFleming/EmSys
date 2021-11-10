@@ -27,7 +27,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 |  Lab 3                                 | 18/10/2021         | 25/10/2021 @ 11am |
 |  Lab 4                                 | 26/10/2021         | 22/11/2021 @ 11am |
 |  Lab 5                                 | 05/11/2021         | 22/11/2021 @ 11am |
-|  CW 1                                  | 08/11/2021         | 06/12/2021 @ 11am |
+|  CW 1                                  | 08/11/2021         | 08/12/2021 @ 11am |
 
 
 ### Exams
