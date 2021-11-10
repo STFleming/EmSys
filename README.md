@@ -12,7 +12,7 @@ For this course, I will primarily use GitHub to host lecture and lab content. Be
 | Lab 3      | [GPIO deep dive](https://github.com/STFleming/EmSys_21A_lab3)                  | Signoff           | 5%                | Lab pairs        |
 | Lab 4      | [Verilog Lab: designing an ALU](https://github.com/STFleming/emsys_21A_lab4)   | Signoff           | 5%                | Lab pairs        |
 | Lab 5      | [ESP32 Hardware Timers and Verilog Timers](https://github.com/STFleming/emsys_21A_lab5)                                            | Signoff           | 5%                | Lab pairs        |
-| CW 1       | Low-power IoT sensor                   | Individual report | 30%               | Lab pairs        |
+| CW 1       | [Low-power IoT sensor](https://github.com/STFleming/emsys_21A_cw)                   | Individual report | 30%               | Lab pairs        |
 
 * All the lab work is completed in pairs. Pairing will be determined at the start of term.
 * A "Signoff" assessment type means that I will look over your GitHub repository and check that the task has been completed and then update the marks. 
