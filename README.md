@@ -51,6 +51,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 | 4     |  21/10    | [[Hardware Description Languages](https://github.com/STFleming/EmSys_Hardware_Description_Languages)]                               |                                                 |
 | 5     |  28/10    | [[Synchronous Sequential Logic](https://github.com/STFleming/EmSys_Sequential_Logic)]                          |                                                 |
 | 6     |   -    | -    |                                                 |
+| 7     |   11/11    | [[Power Optimisations](https://github.com/STFleming/EmSys_Power_and_CW)]    |                                                 |
 
 
 ### Lecture Recordings
