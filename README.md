@@ -52,6 +52,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 | 5     |  28/10    | [[Synchronous Sequential Logic](https://github.com/STFleming/EmSys_Sequential_Logic)]                          |                                                 |
 | 6     |   -    | -    |                                                 |
 | 7     |   11/11    | [[Power Optimisations](https://github.com/STFleming/EmSys_Power_and_CW)]    |                                                 |
+| 8     |   18/11    | [[Time in Embedded Systems](https://github.com/STFleming/emsys_21a_wcet)]    |                                                 |
 
 
 ### Lecture Recordings
