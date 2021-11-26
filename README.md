@@ -53,6 +53,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 | 6     |   -    | -    |                                                 |
 | 7     |   11/11    | [[Power Optimisations](https://github.com/STFleming/EmSys_Power_and_CW)]    |                                                 |
 | 8     |   18/11    | [[Time in Embedded Systems](https://github.com/STFleming/emsys_21a_wcet)]    |                                                 |
+| 9     |   26/11    | [[Analogue to Digital Conversion](https://stfleming.github.io/emsys_21a_analogue_and_digital/)]    |                                                 |
 
 
 ### Lecture Recordings
@@ -66,6 +67,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 | 6     |  9/11      | [[video](https://youtu.be/XMJrXcN7FpA)]                                                                                           |          
 | 7     |  11/11      | [[video](https://swanseauniversity.zoom.us/rec/share/MM5dIhzFpzNkK1BrvSo1iT7E3kMMqxq0SPNj5jOTINHxXEgwXbCSLUXbfnt4PVuh._oo4GiNZ9BaiTMFz?startTime=1636638716000)]                                                                                           |          
 | 8     |  18/11      | [[video](https://swanseauniversity.zoom.us/rec/share/x9Rv1CdnX5R8VIthJ52w_S8oJ8wU0-MwGif1Amywby_vGbS1FzTMEUmrqE_djFql.tzPqu-Z_rLz0iHp-?startTime=1637243524000)]                                                                                           |          
+| 9     |  26/11      | [[video](https://swanseauniversity.zoom.us/rec/share/bEl3IOv4x8q2Ru5V10FO5Sror7M529MmtmEOIfIKp5bIteEA9oE4NRZ4hBw7molY.sIwLNf6wDs2SKo5P?startTime=1637848361000)]                                                                                           |          
 
 
 -----------------------------------------------------------------------------------
