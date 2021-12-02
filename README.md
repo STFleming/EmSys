@@ -54,6 +54,7 @@ _Some components in the module this term have changed slightly, closer to the ex
 | 7     |   11/11    | [[Power Optimisations](https://github.com/STFleming/EmSys_Power_and_CW)]    |                                                 |
 | 8     |   18/11    | [[Time in Embedded Systems](https://github.com/STFleming/emsys_21a_wcet)]    |                                                 |
 | 9     |   26/11    | [[Analogue to Digital Conversion](https://stfleming.github.io/emsys_21a_analogue_and_digital/)]    |                                                 |
+| 10    |   2/12    | [[Digital to Analogue Conversion](https://github.com/STFleming/emsys_21a_digital_to_analogue)]    |                                                 |
 
 
 ### Lecture Recordings
