@@ -68,7 +68,8 @@ _Some components in the module this term have changed slightly, closer to the ex
 | 6     |  9/11      | [[video](https://youtu.be/XMJrXcN7FpA)]                                                                                           |          
 | 7     |  11/11      | [[video](https://swanseauniversity.zoom.us/rec/share/MM5dIhzFpzNkK1BrvSo1iT7E3kMMqxq0SPNj5jOTINHxXEgwXbCSLUXbfnt4PVuh._oo4GiNZ9BaiTMFz?startTime=1636638716000)]                                                                                           |          
 | 8     |  18/11      | [[video](https://swanseauniversity.zoom.us/rec/share/x9Rv1CdnX5R8VIthJ52w_S8oJ8wU0-MwGif1Amywby_vGbS1FzTMEUmrqE_djFql.tzPqu-Z_rLz0iHp-?startTime=1637243524000)]                                                                                           |          
-| 9     |  26/11      | [[video](https://swanseauniversity.zoom.us/rec/share/bEl3IOv4x8q2Ru5V10FO5Sror7M529MmtmEOIfIKp5bIteEA9oE4NRZ4hBw7molY.sIwLNf6wDs2SKo5P?startTime=1637848361000)]                                                                                           |          
+| 9     |  26/11      | [[video](https://swanseauniversity.zoom.us/rec/share/bEl3IOv4x8q2Ru5V10FO5Sror7M529MmtmEOIfIKp5bIteEA9oE4NRZ4hBw7molY.sIwLNf6wDs2SKo5P?startTime=1637848361000)]
+| 10     |  02/12      | [[video](https://swanseauniversity.zoom.us/rec/share/2E1IFMU3yNEbgeAI6YIiQTKfhEymTNktwZdISu3oZymaol34tr6zh-MmS28VQ-5K.KR8mKiJ92KNgj0pu?startTime=1638453045000)]          
 
 
 -----------------------------------------------------------------------------------
